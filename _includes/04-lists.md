@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li>- [ ] Trivandrum</li>
+  <li>- [ ] Kochi</li>
+  <li>- [ ] Kollam</li>
+  <li>- [ ] Kottayam</li>
+</ol>
